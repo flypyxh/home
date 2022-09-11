@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>小鹤双拼·小鹤音形</title>
+        <link>https://flypy.cc/</link>
+        <description>小鹤双拼小鹤音形输入法</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>flypy@qq.com (flypy.cc)</managingEditor>
+            <webMaster>flypy@qq.com (flypy.cc)</webMaster><lastBuildDate>Tue, 04 Jan 2022 18:40:38 &#43;0800</lastBuildDate>
+            <atom:link href="https://flypy.cc/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
